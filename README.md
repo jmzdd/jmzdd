@@ -1,5 +1,5 @@
 ### Hello and welcome to my Github page!
-### As you can see, my work currently includes, but is not limited to, these repositories on the home page.I just recently created my profile, so it may be sketchy, but no harm no foul!😜
+### As you can see, my work currently includes, but is not limited to, these repositories on the home page.I just recently created my profile, so it may be sketchy!😜
 ## Currently doing 👇
 ESP32-based quadrupedal crawling robot (12dio)
 
