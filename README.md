@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello and welcome to my Github page!
+### As you can see, my work currently includes, but is not limited to, these repositories on the home page.I just recently created my profile, so it may be sketchy, but no harm no foul!😜
+## Currently doing 👇
+ESP32-based quadrupedal crawling robot (12dio)
+
 
 <!--
 **jmzdd/jmzdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
