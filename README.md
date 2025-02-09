@@ -1,5 +1,3 @@
-<img src="https://codeyi.cc/bl-content/uploads/Silent%20Field.png" width = "120" height = "120" alt="me" align=center />
-
 👋 Hi!
 
 🎉 Welcome to my GitHub homepage!🎉
